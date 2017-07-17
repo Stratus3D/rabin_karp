@@ -2,7 +2,8 @@
 
 Stratus3D
 
-Erlang implementation of the Rabin-Karp string search algorithm.
+Erlang implementation of the [Rabin-Karp string search algorithm](
+https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm).
 
 ## API
 
